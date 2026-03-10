@@ -19,8 +19,7 @@ export const Home = () => {
         >
         
             <img src="">
-          <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-paper" />
-        </motion.div>
+      
 
         <div className="relative z-10 text-center px-6 max-w-6xl">
           <motion.div
