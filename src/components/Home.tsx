@@ -18,7 +18,7 @@ export const Home = () => {
           className="absolute inset-0 z-0"
         >
         
-            <img src="https://github.com/assurleadcommunication/Wal-Stach/blob/main/src/components/image-agent.jpg">
+            <img src="https://images.unsplash.com/photo-1562322140-8baeececf3df?q=80&w=2400&auto=format&fit=crop">
       
 
         <div className="relative z-10 text-center px-6 max-w-6xl">
