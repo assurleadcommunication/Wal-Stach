@@ -18,7 +18,7 @@ export const Home = () => {
           className="absolute inset-0 z-0"
         >
         
-            <img src="https://images.unsplash.com/photo-1562322140-8baeececf3df?q=80&w=2400&auto=format&fit=crop">
+ <img src="agent-photo.jpg" alt="Mme. FATIMA EL OMRANI" class="w-full h-full object-cover object-top" onerror="this.src='https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=1974&auto=format&fit=crop'">
       
 
         <div className="relative z-10 text-center px-6 max-w-6xl">
