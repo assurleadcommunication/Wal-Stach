@@ -102,7 +102,7 @@ export const Home = () => {
               className="col-span-9 aspect-[3/4] rounded-[3rem] overflow-hidden shadow-[0_50px_100px_-20px_rgba(0,0,0,0.15)] z-10"
             >
               <img
-                src="https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?q=80&w=1200&auto=format&fit=crop"
+                src="https://github.com/assurleadcommunication/Wal-Stach/blob/main/src/components/image-agent.jpg"
                 alt="Salon Interior"
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-[2s]"
                 referrerPolicy="no-referrer"
