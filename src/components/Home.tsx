@@ -19,9 +19,7 @@ export const Home = () => {
         >
           <img
             src="Screenshot_20260309-222503_Facebook.jpg"
-            alt="Hair Styling"
-            className="w-full h-full object-cover"
-            referrerPolicy="no-referrer"
+            
           />
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-paper" />
         </motion.div>
