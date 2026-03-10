@@ -17,7 +17,7 @@ export const Home = () => {
           transition={{ duration: 3, ease: [0.22, 1, 0.36, 1] }}
           className="absolute inset-0 z-0"
         >
-          <img
+        
             <img src="https://scontent.fcmn5-1.fna.fbcdn.net/v/t51.82787-15/648659857_18037807388785923_7869767856322373364_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeGS-AjAOZaVYCXIsgACHgWFK1QhbIGl0HgrVCFsgaXQeLqNIMAluKipIY6ueWNdjjA&_nc_ohc=k06J4WnKRG8Q7kNvwFp27UQ&_nc_oc=AdmOUxlJfIfLdVz4lgDZyCL7PVDAtS_IvUpbUQiTD4kKKGCOYKeXNcPfv6jQFFUiD48&_nc_zt=23&_nc_ht=scontent.fcmn5-1.fna&_nc_gid=KM7VSpT1WMC-8g9HX5Lk7g&_nc_ss=8&oh=00_Afy3spB01y6vx-oryecPhcnPxkH0lcdHnZVMNPGQMouJFA&oe=69B54056">
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-paper" />
         </motion.div>
