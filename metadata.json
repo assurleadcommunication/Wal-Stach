@@ -1,0 +1,7 @@
+{
+  "name": "Wal Stach - Artiste Coiffeur",
+  "description": "Site web élégant et moderne pour Wal Stach, artiste coiffeur spécialisé dans les coupes modernes et colorations créatives.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
