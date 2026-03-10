@@ -18,7 +18,7 @@ export const Home = () => {
           className="absolute inset-0 z-0"
         >
           <img
-            src="https://images.unsplash.com/photo-1562322140-8baeececf3df?q=80&w=2400&auto=format&fit=crop"
+            src="Screenshot_20260309-222503_Facebook.jpg"
             alt="Hair Styling"
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
