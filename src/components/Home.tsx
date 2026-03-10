@@ -18,7 +18,7 @@ export const Home = () => {
           className="absolute inset-0 z-0"
         >
           <img
-            <img src="https://web.facebook.com/photo/?fbid=26648638034720256&set=a.886014608075952&__cft__[0]=AZbFFwcRuHOz-_RE7CLLqTYg-Su7j2Ca7YBSgEj_-GOYi9EChF1fMi82bqCGFMihoagu6ZTrweuWi-96UNpjcQ3jLwMZBTWwHegJCo1caxllbE39MKDSX1DHHzPxvwevXqbtgFgkyF9bfZm6RxTFmoP4T6xqSyC9jIzFHYropFvkPb-HB3insyRVH1s3FtzkQqk&__tn__=EH-R">
+            <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663369607479/ErCLNomOUQMCdMwZ.jpg">
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-paper" />
         </motion.div>
 
