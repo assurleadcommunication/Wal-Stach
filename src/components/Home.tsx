@@ -18,9 +18,7 @@ export const Home = () => {
           className="absolute inset-0 z-0"
         >
           <img
-            <img src="https://images.unsplash.com/photo-1556761175-b413da4baf72?q=80&w=2074&auto=format&fit=crop"
-            
-          />
+            <img src="Screenshot_20260309-222503_Facebook.jpg">
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-paper" />
         </motion.div>
 
