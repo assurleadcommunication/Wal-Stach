@@ -18,7 +18,7 @@ export const Home = () => {
           className="absolute inset-0 z-0"
         >
           <img
-            src="https://github.com/assurleadcommunication/Wal-Stach/blob/main/src/components/Screenshot_20260309-222503_Facebook.jpg"
+            <img src="https://images.unsplash.com/photo-1556761175-b413da4baf72?q=80&w=2074&auto=format&fit=crop"
             
           />
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-paper" />
